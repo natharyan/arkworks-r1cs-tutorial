@@ -1,0 +1,11 @@
+[package]
+name = "R1CS_Example"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ark-bls12-381 = "0.5"
+ark-ff = "0.5"
+ark-r1cs-std = "0.5"
+ark-relations = "0.5"
+ark-std = "0.5"
